@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestApp.MAP/1.0.0": {
+        "dependencies": {
+          "TestApp.MODEL": "1.0.0"
+        },
+        "runtime": {
+          "TestApp.MAP.dll": {}
+        }
+      },
+      "TestApp.MODEL/1.0.0": {
+        "runtime": {
+          "TestApp.MODEL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestApp.MAP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestApp.MODEL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\bin\Debug\net6.0\TestApp.MODEL.deps.json
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\bin\Debug\net6.0\TestApp.MODEL.dll
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\bin\Debug\net6.0\TestApp.MODEL.pdb
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\TestApp.MODEL.csproj.AssemblyReference.cache
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\TestApp.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\TestApp.MODEL.AssemblyInfoInputs.cache
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\TestApp.MODEL.AssemblyInfo.cs
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\TestApp.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\TestApp.MODEL.dll
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\refint\TestApp.MODEL.dll
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\TestApp.MODEL.pdb
+C:\Users\talha\Desktop\TestApp\TestApp.MODEL\obj\Debug\net6.0\ref\TestApp.MODEL.dll

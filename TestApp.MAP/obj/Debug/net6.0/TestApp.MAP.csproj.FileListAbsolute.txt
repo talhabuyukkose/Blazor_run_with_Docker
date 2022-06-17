@@ -1,0 +1,15 @@
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\bin\Debug\net6.0\TestApp.MAP.deps.json
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\bin\Debug\net6.0\TestApp.MAP.dll
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\bin\Debug\net6.0\TestApp.MAP.pdb
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\bin\Debug\net6.0\TestApp.MODEL.dll
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\bin\Debug\net6.0\TestApp.MODEL.pdb
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.csproj.AssemblyReference.cache
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.AssemblyInfoInputs.cache
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.AssemblyInfo.cs
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.csproj.CoreCompileInputs.cache
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.csproj.CopyComplete
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.dll
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\refint\TestApp.MAP.dll
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\TestApp.MAP.pdb
+C:\Users\talha\Desktop\TestApp\TestApp.MAP\obj\Debug\net6.0\ref\TestApp.MAP.dll
