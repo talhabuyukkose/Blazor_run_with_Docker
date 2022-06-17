@@ -6,3 +6,5 @@ services:
     build:
       context: .
       dockerfile: TestApp.UI/Dockerfile
+    ports:
+  - 5281:5281
